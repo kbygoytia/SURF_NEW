@@ -4,6 +4,13 @@
 
   (paper "A4")
 
+  (title_block
+    (title "SURF Vision Offloading Module")
+    (date "2023-07-07")
+    (company "Effecient Computing Lab")
+    (comment 1 "Put together by Kimberly By Goytia")
+  )
+
   (lib_symbols
     (symbol "Camera:OV2640" (in_bom yes) (on_board yes)
       (property "Reference" "CAM" (at -7.62 0 0)
@@ -3409,10 +3416,6 @@
     (at 3.81 203.2 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 6ddbfa4d-4cea-4de7-9430-0f5d8baf22d7)
-  )
-  (text "SURF Vision Offloading Module" (at 186.69 190.5 0)
-    (effects (font (size 1.5 1.5) (thickness 0.3) bold) (justify left bottom))
-    (uuid 81328a06-7dcd-436f-828f-9568a2013c3e)
   )
   (text "RESET SWITCH" (at 255.27 39.37 0)
     (effects (font (size 1.5 1.5) (thickness 0.3) bold) (justify left bottom))
