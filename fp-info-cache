@@ -1,4 +1,4 @@
-22534565415070020
+22554831329873471
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -13,6 +13,13 @@ audio belton reverb
 0
 7
 7
+B3FS
+B3FS1012
+B3FS-1012-2
+Switch
+0
+4
+4
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -2407,6 +2414,55 @@ speaker CUI
 0
 2
 2
+CAPACITOR0.1UF
+CAPC1608X90N
+0603-1
+Capacitor
+0
+2
+2
+CAPACITOR0.1UF50V
+CAPC3216X170N
+VJ1206
+Capacitor
+0
+2
+2
+CAPACITOR10UF
+CAPC2012X145N
+GRM21_0.10 L=2.0mm W=1.25mm T=1.25mm
+Capacitor
+0
+2
+2
+CAPACITOR12pF
+CAPC0603X33N
+AVX0201
+Capacitor
+0
+2
+2
+CAPACITOR15PF
+CAPC1608X87N
+0603;1.6x0.8x0.8
+Capacitor
+0
+2
+2
+CAPACITOR100UF
+CAPC2012X135N
+SIZE CODE-0805
+Capacitor
+0
+2
+2
+CONN_01X10_CRAZTFLIE
+CONN_PINHEADERS_01X10_CRAZYFLIE
+
+
+0
+10
+10
 CP2102N-A02-GQFN28
 QFN50P500X500X80-29N
 
@@ -2414,6 +2470,13 @@ QFN50P500X500X80-29N
 0
 29
 29
+CRYSTAL32.768kHz
+ABS0532768KHZ7T
+1.6x1.0x0.5mm
+Crystal or Oscillator
+0
+2
+2
 Calibration_Scale
 Gauge_10mm_Type1_CopperTop
 Gauge, Massstab, 10mm, CopperTop, Type 1,
@@ -63419,6 +63482,13 @@ Mounting 4.5mm 9774100982
 0
 8
 1
+NCP164CSN300T1G
+SOT95P275X110-5N
+TSOP
+Integrated Circuit
+0
+5
+5
 NetTie
 NetTie-2_SMD_Pad0.5mm
 Net tie, 2 pin, 0.5mm square SMD pads
@@ -84741,6 +84811,20 @@ Logo WEEE
 0
 0
 0
+TPS7A0212PDBVR
+SOT95P280X145-5N
+DBV
+Integrated Circuit
+0
+5
+5
+TPS7A0228PDBVR
+SOT95P280X145-5N
+DBV0005A
+Integrated Circuit
+0
+5
+5
 TerminalBlock
 TerminalBlock_Altech_AK300-2_P5.00mm
 Altech AK300 terminal block, pitch 5.0mm, 45 degree angled, see http://www.mouser.com/ds/2/16/PCBMETRC-24178.pdf
@@ -93601,5 +93685,5 @@ ESP32-S2-MINI-2
 
 
 0
-0
-0
+146
+65
