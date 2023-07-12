@@ -1,4 +1,4 @@
-22554831329873471
+22556521758827507
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -63489,6 +63489,13 @@ Integrated Circuit
 0
 5
 5
+NEW-SWITCH
+TS204225WT160SMTTR
+TS20-42-25-WT-160-SMT-TR-1
+Switch
+0
+4
+4
 NetTie
 NetTie-2_SMD_Pad0.5mm
 Net tie, 2 pin, 0.5mm square SMD pads
@@ -93685,5 +93692,5 @@ ESP32-S2-MINI-2
 
 
 0
-146
+81
 65
