@@ -1,4 +1,4 @@
-22556521758827507
+22556521995666104
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -2461,7 +2461,7 @@ CONN_PINHEADERS_01X10_CRAZYFLIE
 
 
 0
-10
+20
 10
 CP2102N-A02-GQFN28
 QFN50P500X500X80-29N
